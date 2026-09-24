@@ -1,0 +1,9 @@
+{
+  "name": "geomacro-arc-agent-e2e",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "agent:arc": "node scripts/arc-autonomous-agent.mjs"
+  }
+}
